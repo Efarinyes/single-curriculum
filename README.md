@@ -5,3 +5,5 @@
 - SEO Meta Tags
 - Open Graph (OG) Tags
 - Favicon
+## Project url
+- https://roadmap.sh/projects/single-page-cv
